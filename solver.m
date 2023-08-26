@@ -1,21 +1,4 @@
-       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%                                                                         %
-%                 INDIAN INSTITUTE OF TECHNOLOGY GUWAHATI                 %
-%                  DEPARTMENT OF MECHANICAL ENGINEERING                   %
-%                                                                         %
-%                          2022-23 2ND SEMESTER                           %
-%                                                                         %
-%               ME 682 - NONLINEAR FINITE ELEMENT METHODS                 %
-%                                                                         %
-%                                                                         %
-% Code initially developed by: Sachin Singh Gautam                        %
-%                                                                         %
-%                                                                         %
-% Project 1: Due date 31.03.2023, Friday, 5 PM                            %
-%                                                                         %
-% The code is written for solving a finding the displacement, strains and % 
-% stresses for a cantilever beam subjected to point load as shown below   %
-%                                                                         %
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Initialize
